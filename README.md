@@ -41,15 +41,15 @@ O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rog
 ### 🚩Dificuldades
 | **Nome**| **Motivo** |
 |----------------------|-------------------|
-| **Tela de Login**| Ao construir a tela de login, tive muita dificuldade para conectar os campos de _Usuario_ e _Senha_ com a **API**, pois a authenticação não funcionava com os usuarios disponíveis pela api disponibilizada |
+| **Tela de Login**| Ao construir a tela de login, tive muita dificuldade para conectar os campos de _Usuario_ e _Senha_ com a **API**, pois a autenticação não funcionava com os usuarios disponíveis pela api disponibilizada |
 |**Filtro**|Ao construir a pagina _HOME_, tentei adicionar um filtro para deixar somente o código penal que estava 🟢Ativo ou 🔴Inativo, infelizmente não consegui adicionar, mas o filtro por busca está funcionando perfeitamente.|
 |**Redux**| Pelo fato de não saber Redux, tentei aprender ao máximo durante o período disponível. Obtive sucesso em projetos de introdução para o aprendizado da linguagem, porém não consegui aplicar os mesmos conhecimentos no exercício.|
 
 ### 🔍Observações:
-O intúito que levei nesse exercício, foi tentar entragar o mais rápido possível algo funcional e bem estruturado, pois reconheço que tais projetos desenvolvidos na empresa precisam de uma entrega moderadamente rápida e com ótima qualidade.
+O intuito que levei nesse exercício, foi tentar entregar o mais rápido possível algo funcional e bem estruturado, pois reconheço que tais projetos desenvolvidos na empresa precisam de uma entrega moderadamente rápida e com ótima qualidade.
 O Estilo da página foi desenvolvido para seguir as mesmas palhetas de cores no logo da empresa Cidade Alta. Evitei ao máximo aglomerar as _pages_ com styles, pois quanto mais código, mais a pagina demora para carregar.
 
-Espero ter desempenhado um bom papel nesse exercício, fico muito feliz de ter essa oportunidade que para minha carreira profissional e pessoal, é um sonho. Trabalhar na área de jogos sempre foi minha paixão e pretendo conquistar isso o mais rápido possivel.
+Espero ter desempenhado um bom papel nesse exercício, fico muito feliz de ter essa oportunidade que para minha carreira profissional e pessoal, é um sonho. Trabalhar na área de jogos sempre foi minha paixão e pretendo conquistar isso o mais rápido possível.
 
 Obrigado a todos do **Cidade Alta** pela oportunidade de ouro que me deram.
 
