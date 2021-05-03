@@ -1,4 +1,4 @@
-O exercício foi desenvolvido por Cidade Alta e solucionado por: ✍️ [_Rogerio Batistoni Filho_] <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> <a href="https://www.instagram.com/rogerbatt/">Instagram</a> <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo do Cidade Alta.
+O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rogerio Batistoni Filho_ <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> | <a href="https://www.instagram.com/rogerbatt/">Instagram</a> | <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo do Cidade Alta.
 
 ### Linguagens e frameworks usados:
 ⚛️ React.js
@@ -7,14 +7,21 @@ O exercício foi desenvolvido por Cidade Alta e solucionado por: ✍️ [_Rogeri
 🅱️ Bootstrap
 
 #### Essenciais:
-🟢 * Uso do React e Redux;
-🟢 * Componentização;
+🟢 Uso do React e Redux;<br>
+🟢 Componentização;
 
 #### Diferenciais:
-🟢 * Styled Components;
-🟢 * Paginação;
-🟢 * Performance (useMemo, useCallbacks e etc);
+🟢 Styled Components;<br>
+🟢 Paginação;<br>
+🟢 Performance (useMemo, useCallbacks e etc);
 
+
+###Dificuldades
+| **Nome**| **Motivo** |
+|----------------------|-------------------|
+| **Tela de Login**| Ao construir a tela de login, tive muita dificuldade para conectar os campos de _Usuario_ e _Senha_ com a **API**, pois a authenticação não funcionava com os usuarios disponíveis pela api disponibilizada |
+|**Filtro**|Ao construir a pagina _HOME_, tentei adicionar um filtro para deixar somente o código penal que estava 🟢Ativo ou 🔴Inativo, infelizmente não consegui adicionar, mas o filtro por busca está funcionando perfeitamente.|
+|**Redux**| Pelo fato de não saber Redux, tentei aprender ao máximo durante o período disponível. Obtive sucesso em projetos de introdução para o aprendizado da linguagem, porém não consegui aplicar os mesmos conhecimentos no exercício.|
 
 
 ### Default README:
