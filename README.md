@@ -15,22 +15,22 @@ O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rog
 🟢 Performance (useMemo, useCallbacks e etc);
 
 ### Bibliotecas utilizadas:
-   ``` "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
-    "concurrently": "^5.1.0",
-    "json-server": "^0.16.1",
-    "moment": "^2.29.1",
-    "momentjs": "^2.0.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-notifications": "^1.7.2",
-    "react-popup-alert": "^2.0.0",
-    "react-redux": "^7.2.4",
-    "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1",
-    "react-select": "^4.3.0",
-    "react-table": "^7.7.0",
-    "styled-components": "^5.2.3"```
+   * "axios": "^0.19.2",
+   * "bootstrap": "^4.4.1",
+   * "concurrently": "^5.1.0",
+   * "json-server": "^0.16.1",
+   * "moment": "^2.29.1",
+   * "momentjs": "^2.0.0",
+   * "react": "^16.13.1",
+   * "react-dom": "^16.13.1",
+   * "react-notifications": "^1.7.2",
+   * "react-popup-alert": "^2.0.0",
+   * "react-redux": "^7.2.4",
+   * "react-router-dom": "^5.1.2",
+   * "react-scripts": "3.4.1",
+   * "react-select": "^4.3.0",
+   * "react-table": "^7.7.0",
+   * "styled-components": "^5.2.3"
 
 
 ### Dificuldades
