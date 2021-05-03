@@ -55,7 +55,7 @@ Obrigado a todos do **Cidade Alta** pela oportunidade de ouro que me deram.
 
 Atenciosamente, Eng. Rogerio Battistoni Filho 👨🏻‍💻
 
-03/05/2021
+03/05/2021<br>
 
 
 
@@ -63,9 +63,9 @@ Atenciosamente, Eng. Rogerio Battistoni Filho 👨🏻‍💻
 ### 🔌Como iniciar o projeto.
 1. Abra o terminal de sua preferencia.
 2. Selecione a pasta em que você deixou alocado os arquivos.
-3. Escreva no terminal >>> **npm install**  | _Para instalar todas as bibliotecas usadas no projeto._
-4. Logo após escreva >>> npm start
-5. Pronto !
+3. Escreva no terminal >>> **npm install**<br>| _Para instalar todas as bibliotecas usadas no projeto._
+4. Logo após escreva >>> **npm start**
+5. 🎉Pronto !🎉
 
 O projeto deverá abrir em uma aba de seu navegador padrão na porta 3000.
 
