@@ -1,20 +1,20 @@
 O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rogerio Batistoni Filho_ <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> | <a href="https://www.instagram.com/rogerbatt/">Instagram</a> | <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo para a vaga de Desenvolvedor Front-End.
 
 #### Essenciais:
-🟢 Uso do React e Redux;<br>
-🟢 Componentização;
+✅ Uso do React e Redux;<br>
+✅ Componentização;
 
 #### Diferenciais:
-🟢 Styled Components;<br>
-🟢 Paginação;<br>
-🟢 Performance (useMemo, useCallbacks e etc);
+✅ Styled Components;<br>
+✅ Paginação;<br>
+✅ Performance (useMemo, useCallbacks e etc);
 
 ### Linguagens e frameworks usados:
 ⚛️ React.js
 ⚛️ Redux
 🅱️ Bootstrap
 
-### Bibliotecas utilizadas:
+### 📚Bibliotecas utilizadas:
    * "axios": "^0.19.2",
    * "bootstrap": "^4.4.1",
    * "concurrently": "^5.1.0",
@@ -33,14 +33,14 @@ O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rog
    * "styled-components": "^5.2.3"
 
 
-### Dificuldades
+### 🚩Dificuldades
 | **Nome**| **Motivo** |
 |----------------------|-------------------|
 | **Tela de Login**| Ao construir a tela de login, tive muita dificuldade para conectar os campos de _Usuario_ e _Senha_ com a **API**, pois a authenticação não funcionava com os usuarios disponíveis pela api disponibilizada |
 |**Filtro**|Ao construir a pagina _HOME_, tentei adicionar um filtro para deixar somente o código penal que estava 🟢Ativo ou 🔴Inativo, infelizmente não consegui adicionar, mas o filtro por busca está funcionando perfeitamente.|
 |**Redux**| Pelo fato de não saber Redux, tentei aprender ao máximo durante o período disponível. Obtive sucesso em projetos de introdução para o aprendizado da linguagem, porém não consegui aplicar os mesmos conhecimentos no exercício.|
 
-### Observações:
+### 🔍Observações:
 O intúito que levei nesse exercício, foi tentar entragar o mais rápido possível algo funcional e bem estruturado, pois reconheço que tais projetos desenvolvidos na empresa precisam de uma entrega moderadamente rápida e com ótima qualidade.
 O Estilo da página foi desenvolvido para seguir as mesmas palhetas de cores no logo da empresa Cidade Alta. Evitei ao máximo aglomerar as _pages_ com styles, pois quanto mais código, mais a pagina demora para carregar.
 
@@ -48,7 +48,7 @@ Espero ter desempenhado um bom papel nesse exercício, fico muito feliz de ter e
 
 Obrigado a todos do **Cidade Alta** pela oportunidade de ouro que me deram.
 
-Atenciosamente, Eng. Rogerio Battistoni Filho
+Atenciosamente, Eng. Rogerio Battistoni Filho 👨🏻‍💻
 
 03/05/2021
 
