@@ -58,11 +58,12 @@ Atenciosamente, Eng. Rogerio Battistoni Filho 👨🏻‍💻
 03/05/2021
 
 
+
+
 ### 🔌Como iniciar o projeto.
 1. Abra o terminal de sua preferencia.
 2. Selecione a pasta em que você deixou alocado os arquivos.
-3. Escreva no terminal >>> npm install
---Para instalar todas as bibliotecas usadas no projeto.
+3. Escreva no terminal >>> **npm install**  | _Para instalar todas as bibliotecas usadas no projeto._
 4. Logo após escreva >>> npm start
 5. Pronto !
 
