@@ -58,6 +58,17 @@ Atenciosamente, Eng. Rogerio Battistoni Filho 👨🏻‍💻
 03/05/2021
 
 
+### 🔌Como iniciar o projeto.
+1. Abra o terminal de sua preferencia.
+2. Selecione a pasta em que você deixou alocado os arquivos.
+3. Escreva no terminal >>> npm install
+--Para instalar todas as bibliotecas usadas no projeto.
+4. Logo após escreva >>> npm start
+5. Pronto !
+
+O projeto deverá abrir em uma aba de seu navegador padrão na porta 3000.
+
+
 ### Default README:
 ```
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
