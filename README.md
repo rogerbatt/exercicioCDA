@@ -1,4 +1,4 @@
-O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rogerio Batistoni Filho_ <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> | <a href="https://www.instagram.com/rogerbatt/">Instagram</a> | <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo do Cidade Alta.
+O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rogerio Batistoni Filho_ <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> | <a href="https://www.instagram.com/rogerbatt/">Instagram</a> | <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo para a vaga de Desenvolvedor Front-End.
 
 ### Linguagens e frameworks usados:
 ⚛️ React.js
