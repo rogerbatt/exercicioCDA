@@ -1,18 +1,22 @@
 O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rogerio Batistoni Filho_ <a href="https://www.linkedin.com/in/rogerio-battistoni-filho-87432a133/">LinkedIn</a> | <a href="https://www.instagram.com/rogerbatt/">Instagram</a> | <a href="mailto:rogeriobf.dev@gmail.com">E-mail</a>, para o processo seletivo para a vaga de Desenvolvedor Front-End.
 
-#### Essenciais:
+#### Requisitos essenciais:
 ✅ Uso do React e Redux;<br>
 ✅ Componentização;
 
-#### Diferenciais:
+#### Requisitos diferenciais:
 ✅ Styled Components;<br>
 ✅ Paginação;<br>
 ✅ Performance (useMemo, useCallbacks e etc);
+
+
 
 ### Linguagens e frameworks usados:
 ⚛️ React.js
 ⚛️ Redux
 🅱️ Bootstrap
+
+
 
 ### 📚Bibliotecas utilizadas:
    * "axios": "^0.19.2",
@@ -31,6 +35,7 @@ O exercício foi desenvolvido por **Cidade Alta** e solucionado por: ✍️ _Rog
    * "react-select": "^4.3.0",
    * "react-table": "^7.7.0",
    * "styled-components": "^5.2.3"
+
 
 
 ### 🚩Dificuldades
